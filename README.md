@@ -6,7 +6,7 @@ Fictional restaurant in New York City, with reservation modal implemented to sim
 
 # Installation
 
-/* 1. Clone the repo */
+> 1. Clone the repo
 
 git clone https://github.com/samueljw/dorsia-restaurant.git
 
