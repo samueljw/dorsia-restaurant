@@ -6,9 +6,9 @@ Fictional restaurant in New York City, with reservation modal implemented to sim
 
 # Installation
 
-> 1. Clone the repo
+1. Clone the repo
 
-git clone https://github.com/samueljw/dorsia-restaurant.git
+> git clone https://github.com/samueljw/dorsia-restaurant.git
 
 2. Run npm install inside project root directory
 
