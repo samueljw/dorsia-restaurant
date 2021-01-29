@@ -2,11 +2,11 @@
 
 Fictional restaurant in New York City, with reservation modal implemented to simulate booking a restaurant. 
 
-https://dorsia.netlify.app
+[Dorsia](https://dorsia.netlify.app/)
 
 # Installation
 
-1. Clone the repo
+/* 1. Clone the repo */
 
 git clone https://github.com/samueljw/dorsia-restaurant.git
 
