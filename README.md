@@ -12,8 +12,8 @@ git clone https://github.com/samueljw/dorsia-restaurant.git
 
 2. Run npm install inside project root directory
 
-npm install
+> npm install
 
 3. Start the server
 
-npm run start
+> npm run start
