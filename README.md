@@ -12,8 +12,8 @@ Fictional restaurant in New York City, with reservation modal implemented to sim
 
 2. Run npm install inside project root directory
 
-> npm install
+<pre>npm install</pre>
 
 3. Start the server
 
-> npm run start
+<pre>npm run start</pre>
